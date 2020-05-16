@@ -1,14 +1,4 @@
-# # ===================================================
-# GBA464: Assignment 4
-# Author: Yufeng Huang
-# Description: write a function that plots crimes 
-#              incidence in Baltimore city
-# Data: Baltimore crime data
-# Source: https://data.baltimorecity.gov/
-# ===================================================
-# DUE:  Monday, August 19 at 11:59pm
-# Send by email to r.programming.simon@gmail.com, one copy per team
-#    please inidicate the set of team members
+
 
  
 # clear everything
